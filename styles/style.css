@@ -1,0 +1,21 @@
+.box{
+    border: solid;
+}
+
+legend {
+	background-color: #fff;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	color: darkslategray;
+	font-size: 17px;
+	font-weight: bold;
+	padding: 3px 5px 3px 7px;
+	width: auto;
+}
+fieldset {
+	background-color: rgba(215, 214, 218, 0.3);
+	border-radius: 1px;
+}
+#retr{
+	width: 100px;
+}
